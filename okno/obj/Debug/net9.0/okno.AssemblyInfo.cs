@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("okno")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e61630d9d0bd4ef28942624b734e72955d5ab69d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a07de7ba188f70f723f3fc8bfc76a81636abe2c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("okno")]
 [assembly: System.Reflection.AssemblyTitleAttribute("okno")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

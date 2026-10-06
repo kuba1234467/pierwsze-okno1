@@ -16,6 +16,7 @@
     FontSize="32"
     FontWeight="Bold" 
     FontStyle="Italic" 
-Foreground="#C05621"   />
+Foreground="#C05621"  
+Background="#FFD9B3" />
 
 </Window>

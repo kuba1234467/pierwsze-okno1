@@ -17,6 +17,8 @@
     FontWeight="Bold" 
     FontStyle="Italic" 
 Foreground="#C05621"  
-Background="#FFD9B3" />
+Background="#FFD9B3"
+HorizontalAlignment="Center" 
+VerticalAlignment="Center" />
 
 </Window>

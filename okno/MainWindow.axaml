@@ -13,6 +13,7 @@
 
 >
     <TextBlock Text="To jest moje pierwsze okno!"
-    FontSize="32" />
+    FontSize="32"
+    FontWeight="Bold" />
 
 </Window>

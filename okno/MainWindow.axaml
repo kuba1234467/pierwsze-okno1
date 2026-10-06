@@ -14,8 +14,8 @@
 >
     <TextBlock Text="To jest moje pierwsze okno!"
     FontSize="32"
-    FontWeight="Bold"
-    FontFamily="Arial" 
-    FontStyle="Italic" />
+    FontWeight="Bold" 
+    FontStyle="Italic" 
+Foreground="#C05621"   />
 
 </Window>
